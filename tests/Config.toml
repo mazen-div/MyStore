@@ -1,0 +1,5 @@
+dbHost = "localhost"
+dbUser = "testuser"
+dbPassword = "testpass"
+dbPort = 1433
+dbName = "MyStore"
